@@ -1,0 +1,23 @@
+{
+  "name": "robopass",
+  "version": "1.0.0",
+  "description": "Password Manager Example",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlgr/robopass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phlgr/robopass/issues"
+  },
+  "homepage": "https://github.com/phlgr/robopass#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
